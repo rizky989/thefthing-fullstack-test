@@ -1,0 +1,21 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #d9e2ec;
+}
+
+.App {
+    background-color: white;
+    height: 90vh;
+    width: 95vw;
+    box-shadow: -1px 4px 20px -6px rgba(122, 122, 122, 0.75);
+    padding: 2rem 4rem;
+}
+
+.line-after-title {
+    width: 75px;
+    margin: 0 auto;
+    height: 3px;
+    background: #337ab7;
+}
